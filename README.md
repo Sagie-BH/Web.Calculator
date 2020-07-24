@@ -1,3 +1,3 @@
-#Wed Calculator
+Web Calculator
 
 Html Css Js Calculator
